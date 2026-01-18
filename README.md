@@ -1,3 +1,28 @@
+项目自用，如有问题请直接去官方仓库提
+
+
+#### 範例
+`bash <(wget -qO- https://raw.githubusercontent.com/xiaosiwolemon/Dedicated-Seedbox/main/Install.sh) -u jerry048 -p 1LDw39VOgors -c 1024 -q 4.3.9 -l v1.2.20 -v -x`
+
+##### 解釋
+	1. 用戶名稱 是 jerry048
+	2. 密碼 是 1LDw39VOgors
+	3. 緩存大小 是 1GB
+	4. 安裝 qBittorrent 4.3.9 - libtorrent-v1.2.20
+	6. 安裝 vertex
+	7. 啓動 BBRx
+
+以下是原版readme
+---------------
+
+
+
+
+
+
+
+
+
 [中文Readme](https://github.com/jerry048/Dedicated-Seedbox/blob/main/README-zh.md)
 # !! ALERT
 BBR v3 is currently unavailable
